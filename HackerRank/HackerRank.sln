@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatAndMouse", "CatAndMouse\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revers", "Revers\Revers.csproj", "{2A60B41D-020A-4051-803E-A59988F9B628}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatAndMouseTest", "CatAndMouseTest\CatAndMouseTest.csproj", "{6124CAAA-63AE-4332-BDA1-73100CD6BF80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2A60B41D-020A-4051-803E-A59988F9B628}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A60B41D-020A-4051-803E-A59988F9B628}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A60B41D-020A-4051-803E-A59988F9B628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6124CAAA-63AE-4332-BDA1-73100CD6BF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6124CAAA-63AE-4332-BDA1-73100CD6BF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6124CAAA-63AE-4332-BDA1-73100CD6BF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6124CAAA-63AE-4332-BDA1-73100CD6BF80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
