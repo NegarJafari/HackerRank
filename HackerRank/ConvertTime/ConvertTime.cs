@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HackerRank
+﻿namespace HackerRank
 {
-    internal class ConvertTime
+    public class ConvertTime
     {
         /*
          * Complete the 'timeConversion' function below.
@@ -21,7 +15,7 @@ namespace HackerRank
         Returns string: the time in 24 hour format
         */
 
-        public static string timeConversion(string input)
+        public string timeConversion(string input)
         {
             var result = string.Empty;
             var dateType = input.Substring(input.Length - 2);
