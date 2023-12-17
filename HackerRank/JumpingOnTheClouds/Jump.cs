@@ -17,12 +17,12 @@
                         if (clouds[counter + 2] == 0)
                         {
                             result++;
-                            counter = counter + 2;
+                            counter += 2;
                         }
                         else if (clouds[counter + 1] == 0)
                         {
                             result++;
-                            counter = counter + 1;
+                            counter ++;
 
                         }
                     }
@@ -31,7 +31,7 @@
                         if (clouds[counter + 1] == 0)
                         {
                             result++;
-                            counter = counter + 1;
+                            counter ++;
 
                         }
                     }
